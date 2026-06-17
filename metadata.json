@@ -1,0 +1,6 @@
+{
+  "name": "Eco Beta",
+  "description": "Gerencie a recolha de lixo residencial de forma inteligente! Um app sofisticado para controlar planos de pagamento, cartões de selos de recolhas e reportar incidentes para clientes e catadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
